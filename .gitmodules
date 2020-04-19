@@ -1,3 +1,6 @@
 [submodule "themes/ink"]
 	path = themes/ink
 	url = https://github.com/knadh/hugo-ink
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
