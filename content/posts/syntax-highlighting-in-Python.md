@@ -1,7 +1,7 @@
 ---
 title: "Syntax Highlighting in Python"
 date: 2020-04-18T18:09:37-07:00
-draft: true
+draft: false
 ---
 
 Let's see what this looks like
