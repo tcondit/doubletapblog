@@ -5,7 +5,7 @@ frontend:
       commands:
         - hugo
   artifacts:
-    baseDirectory: public
+    baseDirectory: content
     files:
       - '**/*'
   cache:
