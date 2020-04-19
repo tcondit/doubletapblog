@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps Double Tap</title>
-    <link>http://example.org/</link>
+    <link>https://master.dagmvtq068o2e.amplifyapp.com/</link>
     <description>Recent content on DevOps Double Tap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Apr 2020 16:52:48 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://master.dagmvtq068o2e.amplifyapp.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://master.dagmvtq068o2e.amplifyapp.com/posts/first-post/</link>
       <pubDate>Sat, 18 Apr 2020 16:52:48 -0700</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://master.dagmvtq068o2e.amplifyapp.com/posts/first-post/</guid>
       <description>Tap it twice to be sure. Don&amp;rsquo;t need any zombie processes hanging around.</description>
     </item>
     
