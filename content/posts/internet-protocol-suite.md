@@ -9,6 +9,10 @@ draft: true
 ## Checklist man-ifesto
 ---
 
+* Q: How the __fsck__ does Julia Evans write in such a natural voice?? And how can I emulate that?
+* A:
+---
+
 * Q: Does the title make it obvious what this post is about?
 * A:
 
