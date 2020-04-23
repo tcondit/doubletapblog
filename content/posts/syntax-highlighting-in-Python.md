@@ -1,8 +1,9 @@
----
-title: "Syntax Highlighting in Python"
-date: 2020-04-18T18:09:37-07:00
-draft: false
----
++++
+date = "2020-04-18T18:09:37-07:00"
+draft = false
+title = "Syntax Highlighting in Python"
+
++++
 
 Let's see what this looks like
 <br/>

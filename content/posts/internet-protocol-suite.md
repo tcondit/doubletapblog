@@ -1,8 +1,9 @@
----
-title: "Internet Protocol Suite"
-date: 2020-04-20T20:27:37-07:00
-draft: true
----
++++
+date = "2020-04-20T20:27:37-07:00"
+draft = true
+title = "Internet Protocol Suite"
+
++++
 
 # Draft notes
 

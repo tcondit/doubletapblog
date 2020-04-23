@@ -1,8 +1,9 @@
----
-title: "DNS Use Cases"
-date: 2020-04-20T20:22:48-07:00
-draft: true
----
++++
+date = "2020-04-20T20:22:48-07:00"
+draft = true
+title = "DNS Use Cases"
+
++++
 
 # Draft notes
 
