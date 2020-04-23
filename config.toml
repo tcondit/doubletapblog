@@ -1,6 +1,6 @@
 baseURL = "https://master.dagmvtq068o2e.amplifyapp.com/"
-languageCode = "en-us"
 title = "DevOps DoubleTap"
+languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
 enableEmoji = true
