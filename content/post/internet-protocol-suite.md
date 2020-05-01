@@ -1,4 +1,4 @@
-+++
+g++
 date = "2020-04-20T20:27:37-07:00"
 draft = true
 title = "Internet Protocol Suite"
@@ -60,7 +60,8 @@ title = "Internet Protocol Suite"
 
 <!--
 
-Wikipedia has gathered their pages for all four layers of the [internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite) into a set.
+Wikipedia has gathered their pages for all four layers of the [internet protocol suite][1] into a set.
 
 -->
 
+[1]: https://en.wikipedia.org/wiki/Internet_protocol_suite

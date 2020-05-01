@@ -48,9 +48,9 @@ What about writing about using name servers from one place, with servers (target
 
 ## References
 
-* [DNS Complexity](https://queue.acm.org/detail.cfm?id=1242499)
-* [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
-  * part of [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [DNS Complexity][1]
+* [Domain Name System][2]
+  * part of [Internet protocol suite][3]
 
 <!--
 
@@ -59,3 +59,7 @@ What about writing about using name servers from one place, with servers (target
 At different times you may need different
 
 -->
+
+[1]: https://queue.acm.org/detail.cfm?id=1242499
+[2]: https://en.wikipedia.org/wiki/Domain_Name_System
+[3]: https://en.wikipedia.org/wiki/Internet_protocol_suite

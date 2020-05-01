@@ -7,8 +7,7 @@ draft: true
 # Python string formatting cheatsheet
 
 Notes from David Beazley's _Python Programming Language LiveLessons_
-([1](https://www.informit.com/store/python-programming-language-livelessons-9780134217321),
- [2](https://learning.oreilly.com/videos/python-programming-language/9780134217314))
+([1][1], [2][2]).
 
 This is neat. The way he describes string formatting makes the evolution
 clearer. I was looking for some examples like this recently, and was
@@ -68,10 +67,9 @@ options.
 IBM        100        32.2
 ```
 
-For a decimals example, here's part of mortgage2.py. This was not readily
-apparent at first. [This stackoverflow
-answer](https://stackoverflow.com/questions/45310254/fixed-digits-after-decimal-with-f-strings)
-reminded me that it's derivative of what came before.
+For a decimals example, here's part of `mortgage2.py`. This was not readily
+apparent at first. [This stackoverflow answer][3] reminded me that it's
+derivative of what came before.
 
 ```python3
 print(f"{month:>6d} {interest:>8.2f} {total_payment - interest:>8.2f} {principal:10.2f}")
@@ -96,3 +94,7 @@ I like this syntax for writing to a file.
 out = open("schedule.txt", "w")
 print(f'{"Month":>5s} {"Interest":>10s} {"Principal":>10s} {"Remaining":>10s}', file=out)
 ```
+
+[1]: https://www.informit.com/store/python-programming-language-livelessons-9780134217321
+[2]: https://learning.oreilly.com/videos/python-programming-language/9780134217314
+[3]: https://stackoverflow.com/questions/45310254/fixed-digits-after-decimal-with-f-strings
