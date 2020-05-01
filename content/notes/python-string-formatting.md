@@ -1,8 +1,9 @@
----
-title: "Python String Formatting"
-date: 2020-05-01T12:17:27-07:00
-draft: true
----
++++
+date = "2020-05-01T12:17:27-07:00"
+draft = true
+title = "Python String Formatting"
+
++++
 
 # Python string formatting cheatsheet
 

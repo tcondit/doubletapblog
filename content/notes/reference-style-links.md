@@ -1,8 +1,9 @@
----
-title: "Reference Style Links"
-date: 2020-05-01T12:57:30-07:00
-draft: true
----
++++
+date = "2020-05-01T12:57:30-07:00"
+draft = true
+title = "Reference Style Links"
+
++++
 
 # Reference-style links
 

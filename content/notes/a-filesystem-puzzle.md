@@ -1,8 +1,9 @@
----
-title: "A Filesystem Puzzle"
-date: 2020-04-30T13:04:14-07:00
-draft: true
----
++++
+date = "2020-04-30T13:04:14-07:00"
+draft = true
+title = "A Filesystem Puzzle"
+
++++
 
 ## A filesystem puzzle
 

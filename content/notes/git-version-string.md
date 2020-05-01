@@ -1,8 +1,9 @@
----
-title: "Git Version String"
-date: 2020-04-28T11:57:51-07:00
-draft: true
----
++++
+date = "2020-04-28T11:57:51-07:00"
+draft = true
+title = "Git Version String"
+
++++
 
 # A Git version string
 
