@@ -15,7 +15,7 @@ copyright = "&copy; Copyright 2020, Tim Condit"
     name = "About"
     title = "About"
     url = "/about/"
-    weight = -110
+    weight = -70
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
@@ -27,19 +27,19 @@ copyright = "&copy; Copyright 2020, Tim Condit"
     name = "Categories"
     title = "Categories"
     url = "/categories/"
-    weight = -90
+    weight = -110
   [[menu.main]]
     identifier = "notes"
     name = "Notes"
     title = "Notes"
     url = "/notes/"
-    weight = -80
+    weight = -90
 #  [[menu.main]]
 #    identifier = "tags"
 #    name = "Tags"
 #    title = "Tags"
 #    url = "/tags/"
-#    weight = -70
+#    weight = -80
 
 # Configuration Features
 [params]
